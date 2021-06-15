@@ -203,7 +203,7 @@ class Main extends React.Component {
     render() {
         return (
             <div>
-                <h1>The Game of Life</h1>
+                <h1>The Game of Life (<a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target="new">?</a>)</h1>
                 
 
                 <Buttons
